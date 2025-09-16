@@ -1,0 +1,11 @@
+const String connectionIssue = 'Connection issue';
+const String pleaseCheckYourConnection = "Please verify your network";
+const String somethingWrong = "Something went wrong. Please try again";
+const String noProductsListed = "No Products Listed";
+const String search = "Search";
+const String pleaseSelectValidFilter = "Please select the valid filter";
+const String filters = "Filters";
+const String select = "Select";
+const String cart = "Cart";
+const String error = "Error";
+const String emptyCart = "Cart is empty";
